@@ -1,6 +1,6 @@
 # Einsatz von BluePad32 für die Fernsteuerung eines Modells
 Das ist kein vollständiges Projekt. Es dient lediglich dem Test der Fernbedienung und der seriellen Busservos.  
-Die Verwendung des Codes läuft auf eigene Gefahr. Ausserden sind die Lizenzbedingungen der eingesetzen Bibliotheken sind zu beachten!
+Die Verwendung des Codes läuft auf eigene Gefahr. Ausserden sind die Lizenzbedingungen der eingesetzen Bibliotheken zu beachten!
 
 Es wird ein Raupenfahrzeug motorisiert, das mit einem Greifer ausgestattet ist.   
 Zur Fernsteuerung wird ein PS4 - Controller eingesetzt. Dieser kommuniziert per Bluetooth mit dem ESP32 Board.   
