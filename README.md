@@ -1,4 +1,4 @@
-# Einsatz von BluePad32 für die Fernsteuerung eines Modells
+# Einsatz von BluePad32 zur Fernsteuerung eines Modells
 Das ist kein vollständiges Projekt. Es dient lediglich dem Test der Fernbedienung und der seriellen Busservos.  
 Die Verwendung des Codes läuft auf eigene Gefahr. Ausserden sind die Lizenzbedingungen der eingesetzen Bibliotheken zu beachten!
 
